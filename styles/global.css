@@ -33,3 +33,44 @@ main {
 .page {
     display: none;
 }
+
+.html-page {
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.html-box {
+    border: solid 1px;
+    border-color: rgb(0, 255, 0);
+    width: 460px;
+    height: 600px;
+    padding: 20px;
+}
+
+.head-box {
+    border: solid 1px;
+    border-color: rgb(0, 255, 0);
+    width: 410px;
+    height: 60px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.body-box {
+    border: solid 1px;
+    border-color: rgb(0, 255, 0);
+    width: 410px;
+    height: 460px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.div-box {
+    border: solid 1px;
+    border-color: rgb(0, 255, 0);
+    width: 386px;
+    height: 140px;
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+}
